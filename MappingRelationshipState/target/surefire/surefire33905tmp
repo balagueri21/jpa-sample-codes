@@ -1,0 +1,29 @@
+#surefire
+#Wed Oct 28 10:23:16 PDT 2015
+testClassesDirectory=C\:\\ibalague-workspace\\JPATest\\target\\test-classes
+classPathUrl.4=C\:\\Users\\ibalague\\.m2\\repository\\org\\eclipse\\persistence\\javax.persistence\\2.0.0\\javax.persistence-2.0.0.jar
+classPathUrl.3=C\:\\Users\\ibalague\\.m2\\repository\\org\\eclipse\\persistence\\eclipselink\\2.0.0\\eclipselink-2.0.0.jar
+classPathUrl.2=C\:\\Users\\ibalague\\.m2\\repository\\mysql\\mysql-connector-java\\5.1.31\\mysql-connector-java-5.1.31.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\ibalague-workspace\\JPATest\\target\\classes
+reportsDirectory=C\:\\ibalague-workspace\\JPATest\\target\\surefire-reports
+classPathUrl.0=C\:\\ibalague-workspace\\JPATest\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\ibalague-workspace\\JPATest\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\ibalague\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\ibalague\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=C\:\\ibalague-workspace\\JPATest\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false
